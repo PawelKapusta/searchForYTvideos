@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+[<img align="left" alt="Link" width="48px" src="https://user-images.githubusercontent.com/61249196/96627457-2ae5b100-1311-11eb-9426-0bc5fc0fd2c5.png" />][Link]
+ <br><b><- Link to this page</b>
+ 
+ <br>
+<b>Screenshot of application: </b><br>
+<img src="https://user-images.githubusercontent.com/61249196/96375929-5b481680-117c-11eb-98cb-bee7a83a6d45.png">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +75,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+[Link]: https://infallible-swanson-d0dd3c.netlify.app/
