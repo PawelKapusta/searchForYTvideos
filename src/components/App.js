@@ -5,7 +5,7 @@ import VideoList from "./VideoList";
 import VideoDetail from "./VideoDetail";
 import './Main.css';
 
-const KEY = 'AIzaSyAG0xLBTcjO4E8uVxIvmQzLUyRQ1gOrBJg';
+const KEY = process.env.REACT_APP_API_KEY;
 
 class App extends React.Component {
     state = {videos: [], selectedVideo: null};
